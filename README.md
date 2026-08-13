@@ -147,7 +147,6 @@ Training-Institute-Management-Platform/
 │   ├── API.md
 │   ├── ARCHITECTURE.md
 │   ├── ER-Diagram.md
-│   ├── FINAL-SUBMISSION-CHECKLIST.md
 │   └── TEST-CASES.md
 │
 ├── screenshots/
@@ -348,7 +347,7 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ### Attendance Management
 
-![Attendance Management](screenshots/attendance.png)
+![Attendance Management](screenshots/attendence.png)
 
 ### Fees Management
 
